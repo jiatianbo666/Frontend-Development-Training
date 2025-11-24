@@ -25,9 +25,7 @@
     <a href="https://vuejs.org/">
       <img src="https://img.shields.io/badge/Framework-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white" alt="Vue">
     </a>
-    <a href="https://reactjs.org/">
-      <img src="https://img.shields.io/badge/Framework-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
-    </a>
+
   </p>
 </div>
 
