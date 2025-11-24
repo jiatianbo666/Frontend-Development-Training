@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/nku-logo.png" width="200" alt="NKU Logo" />
+  <img src="./assets/nankai.jpg" width="800" alt="NKU Logo" />
   <h1>NKU Front-end Development Training</h1>
   
   <p>
