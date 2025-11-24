@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/zh/thumb/6/6b/Nankai_University_logo.svg/400px-Nankai_University_logo.svg.png" width="200" alt="NKU Logo" />
+  <img src="./assets/nku-logo.png" width="200" alt="NKU Logo" />
   <h1>NKU Front-end Development Training</h1>
   
   <p>
@@ -59,7 +59,7 @@
 
 ```text
 NKU-Frontend-Training/
-├── 📁 todo_list             # 作业四提交
+├── 📁 todo_list             # 作业4提交
 ├── 📁 Final-Project         # 实训大作业：[项目名称]
 ├── 📄 README.md             # 项目说明文档
 └── 📄 .gitignore            # Git 忽略配置
